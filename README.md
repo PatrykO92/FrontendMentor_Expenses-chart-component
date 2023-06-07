@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git](https://github.com/PatrykO92/FrontendMentor_Expenses-chart-component)
-- Live Site URL: [Live](https://frontend-mentor-expenses-chart-component.vercel.app/)
+- Live Site URL: [Live](https://frontend-mentor-expenses-chart-component-beta.vercel.app/)
 
 ## My process
 
