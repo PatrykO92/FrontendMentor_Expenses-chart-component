@@ -11,6 +11,7 @@ async function Finance() {
   } catch (err) {
     console.log("Error in data fetching.");
   }
+
   return (
     <main className="flex flex-col gap-3">
       <MyBalance myBalance={data.myBalance} />

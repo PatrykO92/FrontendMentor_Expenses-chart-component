@@ -1,6 +1,6 @@
 import data from "../data/data.js";
 const SETERROR = false; // Set to true to simulate an error
-const FETCHDELAY = 0.01; // Set delay of fetch in seconds
+const FETCHDELAY = 1; // Set delay of fetch in seconds
 
 function mockAPIFunction() {
   return new Promise((resolve, reject) => {
